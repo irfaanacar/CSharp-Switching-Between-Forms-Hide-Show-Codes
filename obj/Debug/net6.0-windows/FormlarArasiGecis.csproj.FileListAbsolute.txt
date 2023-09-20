@@ -1,0 +1,17 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\bin\Debug\net6.0-windows\FormlarArasiGecis.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\bin\Debug\net6.0-windows\FormlarArasiGecis.deps.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\bin\Debug\net6.0-windows\FormlarArasiGecis.runtimeconfig.json
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\bin\Debug\net6.0-windows\FormlarArasiGecis.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\bin\Debug\net6.0-windows\FormlarArasiGecis.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.AssemblyInfoInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.AssemblyInfo.cs
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\refint\FormlarArasiGecis.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.genruntimeconfig.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\ref\FormlarArasiGecis.dll
+C:\Users\irfaa\OneDrive\Masaüstü\C#\FormlarArasiGecis\obj\Debug\net6.0-windows\FormlarArasiGecis.Form2.resources
